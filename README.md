@@ -15,9 +15,6 @@ As an enthusiastic Computer Science student, I am particularly interested in har
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devasheeshmallik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=devasheeshmallik&icon=0&color=9)](https://visitcount.itsvg.in)
 
